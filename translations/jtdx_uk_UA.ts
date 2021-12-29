@@ -2556,7 +2556,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="265"/>
         <source>Command performed, but arg truncated, result not guaranteed</source>
-        <translation>Команда виконана, але аргумент обрізаний, результат не гарантировано</translation>
+        <translation>Команда виконана, але аргумент обрізаний, результат не гарантовано</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="266"/>
@@ -2606,12 +2606,12 @@ Error: %2 - %3</source>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="340"/>
         <source>Hamlib settings file error: config must be a JSON object</source>
-        <translation>Ошибка файла настроек Hamlib: config должен быть объектом JSON</translation>
+        <translation>Помилка файла налаштувань Hamlib: config має бути объ"єктом JSON</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="404"/>
         <source>Unsupported CAT type</source>
-        <translation>Не поддердерживаемый тип CAT</translation>
+        <translation>Не підтримуваний тип CAT</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="461"/>
