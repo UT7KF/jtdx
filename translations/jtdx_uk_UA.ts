@@ -197,7 +197,7 @@ Format:
     <message>
         <location filename="../Configuration.cpp" line="3019"/>
         <source>Invalid audio input device</source>
-        <translation>Некоректный выбор звуковой карты для входа</translation>
+        <translation>Некоректний вибір звукової карты для входа</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="3026"/>
@@ -292,7 +292,7 @@ Format:
     <message>
         <location filename="../Configuration.cpp" line="5515"/>
         <source>Only Save Selected  Working Frequencies</source>
-        <translation>Зберегтитільки обрані робочі частоти</translation>
+        <translation>Зберегти тільки обрані робочі частоти</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5517"/>
@@ -307,7 +307,7 @@ Format:
     <message>
         <location filename="../Configuration.cpp" line="5546"/>
         <source>Are you sure you want to discard your current working frequencies and replace them with default ones?</source>
-        <translation>Ви впевнені, що бажаєте скинутипоточні робочі частоти та змінити їх значеннями за замовчуванням?</translation>
+        <translation>Ви впевнені, що бажаєте скинути поточні робочі частоти та змінити їх значеннями за замовчуванням?</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5606"/>
@@ -2427,12 +2427,12 @@ Error: %2 - %3</source>
         <location filename="../HRDTransceiver.cpp" line="177"/>
         <location filename="../HRDTransceiver.cpp" line="201"/>
         <source>Ham Radio Deluxe: no rig found</source>
-        <translation>Ham Radio Deluxe:  трансівер< не виявлено/translation>
+        <translation>Ham Radio Deluxe:  трансівер не виявлено</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="425"/>
         <source>Ham Radio Deluxe: rig doesn&apos;t support mode</source>
-        <translation>Ham Radio Deluxe: трансівер не підтримує&apos;t режим</translation>
+        <translation>Ham Radio Deluxe: трансівер не підтримує режим</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="444"/>
@@ -2571,7 +2571,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="268"/>
         <source>Communication bus error</source>
-        <translation>Помилка шины зв"язку</translation>
+        <translation>Помилка шинb зв"язку</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="269"/>
@@ -2581,12 +2581,12 @@ Error: %2 - %3</source>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="270"/>
         <source>NULL RIG handle or invalid pointer parameter</source>
-        <translation>Нулевой дискриптор трансивера или неверный параметр указателя</translation>
+        <translation>Нульовий дескриптор трансівера або невірний параметр покажчика</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="271"/>
         <source>Invalid VFO</source>
-        <translation>Неверный VFO</translation>
+        <translation>Невірний VFO</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="272"/>
@@ -2596,12 +2596,12 @@ Error: %2 - %3</source>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="322"/>
         <source>Hamlib settings file error: %1 at character offset %2</source>
-        <translation>Ошибка файла настроек Hamlib : %1 со смещением символа %2</translation>
+        <translation>Помилка файла налаштувань Hamlib : %1 зі зміщенням символа %2</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="328"/>
         <source>Hamlib settings file error: top level must be a JSON object</source>
-        <translation>Ошибка файла настроек Hamlib: верхний уровень должен быть объектом JSON</translation>
+        <translation>Помилка  файла налаштувань Hamlib: верхній рівень має бути об"єктом JSON</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="340"/>
