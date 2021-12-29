@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ua_UA" sourcelanguage="en_US">
+<TS version="2.1" language="uk_UA" sourcelanguage="en_US">
 <context>
     <name>Bands</name>
     <message>
@@ -188,51 +188,52 @@ Formats:
 Leave blank for a sensible default for the rig.
 Format:
 	[VID[:PID[:VENDOR[:PRODUCT]]]]</source>
-        <translation>Опциональная идентификация устройства.
-Оставьте пустым для использования значения по умолчанию для трансивера.
+        <translation>Опціональна ідентификація пристрою.
+Залиште поле незаповненим для використання значення
+за замовчуванням для цього трансівера.
 Формат:
 	[VID[:PID[:VENDOR[:PRODUCT]]]]</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="3019"/>
         <source>Invalid audio input device</source>
-        <translation>Некорректный выбор звуковой карты для входа</translation>
+        <translation>Некоректный выбор звуковой карты для входа</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="3026"/>
         <source>Invalid audio output device</source>
-        <translation>Некорректный выбор звуковой карты для выхода</translation>
+        <translation>Некорректний вибір звукової карты для виходу</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="3032"/>
         <source>Invalid PTT method</source>
-        <translation>Некорректный метод PTT</translation>
+        <translation>Некоректний метод PTT</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="3042"/>
         <source>Invalid PTT port</source>
-        <translation>Некорректный PTT порт</translation>
+        <translation>Некоректний PTT порт</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="3589"/>
         <source>CQ/73 in message</source>
-        <translation>CQ/73 в сообщении</translation>
+        <translation>CQ/73 в повідомленні</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="3590"/>
         <source>CQ in message</source>
-        <translation>CQ в сообщении</translation>
+        <translation>CQ в повідомленні</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="4773"/>
         <source>JTDX Decoded Text Font Chooser</source>
-        <translation>JTDX Выбор шрифта декодированного текста</translation>
+        <translation>JTDX Вибір шрифта декодованого текста</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5422"/>
         <location filename="../Configuration.cpp" line="5453"/>
         <source>Cancel</source>
-        <translation>Отменить</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5420"/>
@@ -244,64 +245,64 @@ Format:
     <message>
         <location filename="../Configuration.cpp" line="5418"/>
         <source>Load Working Frequencies</source>
-        <translation>Загрузить рабочие частоты</translation>
+        <translation>Завантажити робочі частоти</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5436"/>
         <source>Replace Working Frequencies</source>
-        <translation>Заменить рабочие частоты</translation>
+        <translation>Замінити робочі частоти</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5437"/>
         <source>Are you sure you want to discard your current working frequencies and replace them with the loaded ones?</source>
-        <translation>Вы уверены, что хотите сбросить текущие рабочие частоты и заменить их загруженными?</translation>
+        <translation>Ви впевнені, що бажаєте скинути існуючі робочі частоти та замінити їх на нові завантажені?</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5449"/>
         <source>Merge Working Frequencies</source>
-        <translation>Обьединить рабочие частоты</translation>
+        <translation>Об"єднати робочі частоти</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5476"/>
         <location filename="../Configuration.cpp" line="5485"/>
         <location filename="../Configuration.cpp" line="5495"/>
         <source>Not a valid frequencies file</source>
-        <translation>Некорректный файл частот</translation>
+        <translation>Некоректний файл частот</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5476"/>
         <source>Incorrect file magic</source>
-        <translation>Неправильный формат файла</translation>
+        <translation>Невірний формат файла</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5485"/>
         <source>Version is too new</source>
-        <translation>Версия в отработке</translation>
+        <translation>Версія відпрацьовується/translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5495"/>
         <source>Contents corrupt</source>
-        <translation>Контент обрезан</translation>
+        <translation>Контент обрізано</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5505"/>
         <source>Save Working Frequencies</source>
-        <translation>Сохранить рабочие частоты</translation>
+        <translation>Зберегти робочі частоти</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5515"/>
         <source>Only Save Selected  Working Frequencies</source>
-        <translation>Сохранить только выбранные рабочие частоты</translation>
+        <translation>Зберегтитільки обрані робочі частоти</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5517"/>
         <source>Are you sure you want to save only the working frequencies that are currently selected? Click No to save all.</source>
-        <translation>Вы уверены, что хотите сохранить только рабочие частоты, которые выбраны в данный момент? Нажмите Нет, чтобы сохранить все.</translation>
+        <translation>Ви впевнені, що бажаєте зберегти тільки робочі частоти, обрані у даний момент? Натисніть Ні, для збереження всього.</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5544"/>
         <source>Reset Working Frequencies</source>
-        <translation>Сброс рабочих частот</translation>
+        <translation>Скидання робочих частот</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5546"/>
