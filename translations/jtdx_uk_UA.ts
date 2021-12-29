@@ -5833,7 +5833,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../soundout.cpp" line="115"/>
         <source>Error</source>
-        <translation>Ошибка</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../soundout.cpp" line="115"/>
@@ -5846,22 +5846,22 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.cpp" line="264"/>
         <source>Add Station</source>
-        <translation>Добавить станцию</translation>
+        <translation>Додати станцію</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="269"/>
         <source>&amp;Band:</source>
-        <translation>&amp;Диапазон:</translation>
+        <translation>&amp;Діапазон:</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="270"/>
         <source>&amp;Offset (MHz):</source>
-        <translation>&amp;Смещение (МГц):</translation>
+        <translation>&amp;Зсув (МГц):</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="271"/>
         <source>&amp;Antenna:</source>
-        <translation>&amp;Антенна:</translation>
+        <translation>&amp;Антена:</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="277"/>
@@ -5871,7 +5871,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.cpp" line="278"/>
         <source>&amp;Cancel</source>
-        <translation>О&amp;тменить</translation>
+        <translation>О&amp;Скасувати</translation>
     </message>
 </context>
 <context>
@@ -5879,17 +5879,17 @@ Error(%2): %3</source>
     <message>
         <location filename="../StationList.cpp" line="294"/>
         <source>Band name</source>
-        <translation>Название диапазона</translation>
+        <translation>Назва диапазону</translation>
     </message>
     <message>
         <location filename="../StationList.cpp" line="320"/>
         <source>Frequency offset</source>
-        <translation>Смещение частоты</translation>
+        <translation>Зсув частоти</translation>
     </message>
     <message>
         <location filename="../StationList.cpp" line="342"/>
         <source>Antenna description</source>
-        <translation>Оптсание антенны</translation>
+        <translation>Опис антенни</translation>
     </message>
     <message>
         <location filename="../StationList.cpp" line="364"/>
@@ -5997,22 +5997,22 @@ Error(%2): %3</source>
     <message>
         <location filename="../TCITransceiver.cpp" line="158"/>
         <source>ProxyNotFound</source>
-        <translation>ПроксиНеНайден</translation>
+        <translation>Проксі не знайдено</translation>
     </message>
     <message>
         <location filename="../TCITransceiver.cpp" line="159"/>
         <source>ProxyProtocol</source>
-        <translation>ПроксиПротокол</translation>
+        <translation>Проксі Протокол</translation>
     </message>
     <message>
         <location filename="../TCITransceiver.cpp" line="160"/>
         <source>Operation</source>
-        <translation>Работа</translation>
+        <translation>Робота</translation>
     </message>
     <message>
         <location filename="../TCITransceiver.cpp" line="161"/>
         <source>SslInternal</source>
-        <translation>SslВнутренний</translation>
+        <translation>SslВнутрішній</translation>
     </message>
     <message>
         <location filename="../TCITransceiver.cpp" line="162"/>
@@ -6100,7 +6100,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../TCITransceiver.cpp" line="1673"/>
         <source>TCI modulator not Idle</source>
-        <translation>TCI модулятор уже используется</translation>
+        <translation>TCI модулятор вже використовується</translation>
     </message>
 </context>
 <context>
@@ -6108,7 +6108,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../TransceiverBase.cpp" line="14"/>
         <source>Unexpected rig error</source>
-        <translation>Непредвиденная ошибка трансивера</translation>
+        <translation>Непередбачувана помилка трансівера</translation>
     </message>
 </context>
 <context>
@@ -6116,7 +6116,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../widegraph.ui" line="20"/>
         <source>Dialog</source>
-        <translation>Диалог</translation>
+        <translation>Діалог</translation>
     </message>
     <message>
         <location filename="../widegraph.ui" line="83"/>
@@ -7165,7 +7165,7 @@ both here.</source>
     <message>
         <location filename="../Configuration.ui" line="1958"/>
         <source>S&amp;elect</source>
-        <translation>Выбор</translation>
+        <translation>Вибір</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1989"/>
@@ -7175,7 +7175,7 @@ both here.</source>
     <message>
         <location filename="../Configuration.ui" line="2013"/>
         <source>Message sequencing short scenarios</source>
-        <translation>Короткие сценарии последовательности сообщений</translation>
+        <translation>Короткі сценарії послідовності повідомлень</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="2021"/>
@@ -7238,22 +7238,22 @@ both here.</source>
     <message>
         <location filename="../Configuration.ui" line="2288"/>
         <source>Tx &amp;Macros</source>
-        <translation>Tx макросы</translation>
+        <translation>Tx макроси</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="2291"/>
         <source>Canned free text messages setup</source>
-        <translation>Настройка макросов</translation>
+        <translation>Налаштування макросів</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="2297"/>
         <source>&amp;Add</source>
-        <translation>Добавить</translation>
+        <translation>Додати</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="2314"/>
         <source>&amp;Delete</source>
-        <translation>Удалить</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="2324"/>
@@ -7268,12 +7268,12 @@ both here.</source>
     <message>
         <location filename="../Configuration.ui" line="2378"/>
         <source>Reporting and logging settings</source>
-        <translation>Настройка записи QSO в лог</translation>
+        <translation>Налаштування запису QSO в лог</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="2391"/>
         <source>Logging</source>
-        <translation>Запись QSO в лог</translation>
+        <translation>Запис QSO в лог</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="2427"/>
