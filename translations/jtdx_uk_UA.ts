@@ -2110,48 +2110,48 @@ Format:
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="322"/>
         <source>DX Lab Suite Commander didn&apos;t respond correctly polling split status: </source>
-        <translation>DX Lab Suite Commander не отвечал правильно, опрашивая статус split: </translation>
+        <translation>DX Lab Suite Commander не відповідав вірно, опитуючи статус split: </translation>
     </message>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="378"/>
         <source>DX Lab Suite Commander sent an unrecognised mode: &quot;</source>
-        <translation>DX Lab Suite Commander отправил нераспознанный режим: &quot;</translation>
+        <translation>DX Lab Suite Commander відправив нерозпізнаний режим: &quot;</translation>
     </message>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="385"/>
         <source>DX Lab Suite Commander didn&apos;t respond correctly polling mode: </source>
-        <translation>DX Lab Suite Commander не ответил правильно в режиме опроса: </translation>
+        <translation>DX Lab Suite Commander не відповів правильно в режиме опитування: </translation>
     </message>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="402"/>
         <source>DX Lab Suite Commander send command failed
 </source>
-        <translation>Команда из DX Lab Suite Commander не выполнена
+        <translation>Команда з DX Lab Suite Commander не виконана
 </translation>
     </message>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="414"/>
         <source>DX Lab Suite Commander failed to send command &quot;%1&quot;: %2
 </source>
-        <translation>DX Lab Suite Commander не смог отправить команду &quot;%1&quot;: %2
+        <translation>DX Lab Suite Commander не зміг відправити команду &quot;%1&quot;: %2
 </translation>
     </message>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="431"/>
         <source>DX Lab Suite Commander send command &quot;%1&quot; read reply failed: %2
 </source>
-        <translation>На команду из DX Lab Suite Commander &quot;%1&quot; не удалось прочитать ответ:%2
+        <translation>На команду з DX Lab Suite Commander &quot;%1&quot; не вдалося отримати відповідь:%2
 </translation>
     </message>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="442"/>
         <source>DX Lab Suite Commander retries exhausted sending command &quot;%1&quot;</source>
-        <translation>DX Lab Suite Commander повторяет выданную команду &quot;%1&quot;</translation>
+        <translation>DX Lab Suite Commander повторює видану команду &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="505"/>
         <source>DX Lab Suite Commander sent an unrecognized frequency</source>
-        <translation>DX Lab Suite Commander отправил некорректную частоту</translation>
+        <translation>DX Lab Suite Commander відправив некоректну частоту</translation>
     </message>
 </context>
 <context>
@@ -2159,12 +2159,12 @@ Format:
     <message>
         <location filename="../decodedtext.cpp" line="27"/>
         <source>partial loss of data</source>
-        <translation>частичная потеря данных</translation>
+        <translation>часткова втрата даних</translation>
     </message>
     <message>
         <location filename="../decodedtext.cpp" line="28"/>
         <source>ALLCALL7.TXT is too short or broken?</source>
-        <translation>ALLCALL7.TXT слишком короткий или поврежден?</translation>
+        <translation>ALLCALL7.TXT занадто короткий або пошкоджений?</translation>
     </message>
     <message>
         <location filename="../decodedtext.cpp" line="29"/>
@@ -2174,17 +2174,17 @@ Format:
     <message>
         <location filename="../decodedtext.cpp" line="30"/>
         <source>input signal low rms</source>
-        <translation>уровень сигнала слишком мал</translation>
+        <translation>рівень сигнала дуже малий</translation>
     </message>
     <message>
         <location filename="../decodedtext.cpp" line="31"/>
         <source>audio gap detected</source>
-        <translation>неисправность системного звука</translation>
+        <translation>несправність системного звука</translation>
     </message>
     <message>
         <location filename="../decodedtext.cpp" line="32"/>
         <source>nfqso is out of bandwidth</source>
-        <translation>nfqso вне полосы пропускания</translation>
+        <translation>nfqso поза смугою  пропускання</translation>
     </message>
 </context>
 <context>
@@ -2197,48 +2197,48 @@ Format:
     <message>
         <location filename="../WFPalette.cpp" line="123"/>
         <source>&amp;Cancel</source>
-        <translation>О&amp;тменить</translation>
+        <translation>С&amp;касувати</translation>
     </message>
     <message>
         <location filename="../WFPalette.cpp" line="126"/>
         <source>&amp;Import...</source>
-        <translation>&amp;Импорт...</translation>
+        <translation>&amp;Імпорт...</translation>
     </message>
     <message>
         <location filename="../WFPalette.cpp" line="129"/>
         <source>&amp;Export...</source>
-        <translation>&amp;Экспорт...</translation>
+        <translation>&amp;Експорт...</translation>
     </message>
     <message>
         <location filename="../WFPalette.cpp" line="191"/>
         <source>&amp;Delete</source>
-        <translation>&amp;Удалить</translation>
+        <translation>&amp;Видалити</translation>
     </message>
     <message>
         <location filename="../WFPalette.cpp" line="200"/>
         <source>&amp;Insert ...</source>
-        <translation>&amp;Вставить ...</translation>
+        <translation>&amp;Вставити ...</translation>
     </message>
     <message>
         <location filename="../WFPalette.cpp" line="208"/>
         <source>Insert &amp;after ...</source>
-        <translation>Вставить &amp;после ...</translation>
+        <translation>Вставити &amp;після ...</translation>
     </message>
     <message>
         <location filename="../WFPalette.cpp" line="223"/>
         <source>Import Palette</source>
-        <translation>Импорт палитры</translation>
+        <translation>Імпорт палітри</translation>
     </message>
     <message>
         <location filename="../WFPalette.cpp" line="223"/>
         <location filename="../WFPalette.cpp" line="234"/>
         <source>Palettes (*.pal)</source>
-        <translation>Палитры (*.pal)</translation>
+        <translation>Палітри (*.pal)</translation>
     </message>
     <message>
         <location filename="../WFPalette.cpp" line="234"/>
         <source>Export Palette</source>
-        <translation>Экспорт палитры</translation>
+        <translation>Експорт палітри</translation>
     </message>
 </context>
 <context>
@@ -2246,7 +2246,7 @@ Format:
     <message>
         <location filename="../WSPRBandHopping.cpp" line="110"/>
         <source>Gray time:</source>
-        <translation>Серое время:</translation>
+        <translation>Сірий час:</translation>
     </message>
 </context>
 <context>
@@ -2255,14 +2255,14 @@ Format:
         <location filename="../SampleDownloader/Directory.cpp" line="111"/>
         <location filename="../SampleDownloader/Directory.cpp" line="187"/>
         <source>URL Error</source>
-        <translation>Ошибка URL</translation>
+        <translation>Помилка URL</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/Directory.cpp" line="112"/>
         <location filename="../SampleDownloader/Directory.cpp" line="188"/>
         <source>Invalid URL:
 &quot;%1&quot;</source>
-        <translation>Ошибочный URL:
+        <translation>Помилковий URL:
 &quot;%1&quot;</translation>
     </message>
     <message>
@@ -2279,34 +2279,34 @@ Format:
     <message>
         <location filename="../SampleDownloader/Directory.cpp" line="131"/>
         <source>Contents file syntax error %1 at character offset %2</source>
-        <translation>Синтаксическая ошибка %1 файла контента при смещении символа %2</translation>
+        <translation>Синтаксична помилка %1 файла контента при зміщенні символа %2</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/Directory.cpp" line="138"/>
         <source>Contents file top level must be a JSON array</source>
-        <translation>Верхний уровень файла контента должен быть массивом JSON</translation>
+        <translation>Верхній рівень файла контента повинен бути масивом JSON</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/Directory.cpp" line="149"/>
         <source>File System Error</source>
-        <translation>Ошибка файловой системы</translation>
+        <translation>Помилка файлової системи</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/Directory.cpp" line="150"/>
         <source>Failed to open &quot;%1&quot;
 Error: %2 - %3</source>
-        <translation>Не удалось открыть &quot;%1&quot;
+        <translation>Не вдалося відкрити &quot;%1&quot;
 Ошибка: %2 - %3</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/Directory.cpp" line="206"/>
         <source>Contents entries must be a JSON array</source>
-        <translation>Записи контента должны быть массивом JSON</translation>
+        <translation>Записи контенту мають бути  масивом JSON</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/Directory.cpp" line="212"/>
         <source>Contents entries must have a valid type</source>
-        <translation>Записи контента должны иметь допустимый тип</translation>
+        <translation>Записи контенту повинні мати допустимий тип</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/Directory.cpp" line="218"/>
