@@ -307,22 +307,22 @@ Format:
     <message>
         <location filename="../Configuration.cpp" line="5546"/>
         <source>Are you sure you want to discard your current working frequencies and replace them with default ones?</source>
-        <translation>Вы уверены, что хотите сбросить текущие рабочие частоты и заменить их значениями по умолчанию?</translation>
+        <translation>Ви впевнені, що бажаєте скинутипоточні робочі частоти та змінити їх значеннями за замовчуванням?</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5606"/>
         <source>Save Directory</source>
-        <translation>Сохранить папку</translation>
+        <translation>Зберегти папку</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5622"/>
         <source>Failed to open connection to rig</source>
-        <translation>Ошибка подключения к трансиверу</translation>
+        <translation>Помилка підключення до трансівера</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="6012"/>
         <source>Rig failure</source>
-        <translation>Трансивер не отвечает</translation>
+        <translation>Трансівер не відповідає</translation>
     </message>
 </context>
 <context>
@@ -330,17 +330,17 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="33"/>
         <source>where?</source>
-        <translation>страна?</translation>
+        <translation>Країна?</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="34"/>
         <source>Sov Mil Order of Malta</source>
-        <translation>Мальтийский орден</translation>
+        <translation>Мальтійский орден</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="35"/>
         <source>Spratly Is.</source>
-        <translation>Спратли о.</translation>
+        <translation>Спратлі о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="36"/>
@@ -355,17 +355,17 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="38"/>
         <source>Mauritius</source>
-        <translation>Маврикий</translation>
+        <translation>Маврикій</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="39"/>
         <source>Rodriguez Is.</source>
-        <translation>Родригес о.</translation>
+        <translation>Родрігес о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="40"/>
         <source>Equatorial Guinea</source>
-        <translation>Экваториальная Гвинея</translation>
+        <translation>Екваториальна Гвінея</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="41"/>
@@ -375,7 +375,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="42"/>
         <source>Fiji</source>
-        <translation>Фиджи</translation>
+        <translation>Фіджи</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="43"/>
@@ -390,22 +390,22 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="45"/>
         <source>Kingdom of Eswatini</source>
-        <translation>Королевство Эсватини</translation>
+        <translation>Королевство Есфатіні</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="46"/>
         <source>Tunisia</source>
-        <translation>Тунис</translation>
+        <translation>Туніс</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="47"/>
         <source>Vietnam</source>
-        <translation>Вьетнам</translation>
+        <translation>В"єтнам</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="48"/>
         <source>Guinea</source>
-        <translation>Гвинея</translation>
+        <translation>Гвінея</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="49"/>
@@ -425,7 +425,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="52"/>
         <source>Georgia</source>
-        <translation>Грузия</translation>
+        <translation>Грузія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="53"/>
@@ -435,12 +435,12 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="54"/>
         <source>Sri Lanka</source>
-        <translation>Шри Ланка</translation>
+        <translation>Шрі Ланка</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="55"/>
         <source>ITU HQ</source>
-        <translation>Штаб квартира МСЭ</translation>
+        <translation>Штаб квартира МСЕ</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="56"/>
@@ -450,37 +450,37 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="57"/>
         <source>Vienna Intl Ctr</source>
-        <translation>Венский международный центр</translation>
+        <translation>Віденський міжнародній центр</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="58"/>
         <source>Timor - Leste</source>
-        <translation>Тимор Лешти</translation>
+        <translation>Тимор Лешті</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="59"/>
         <source>Israel</source>
-        <translation>Израиль</translation>
+        <translation>Ізраиль</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="60"/>
         <source>Libya</source>
-        <translation>Ливия</translation>
+        <translation>Лівія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="61"/>
         <source>Cyprus</source>
-        <translation>Кипр</translation>
+        <translation>Кіпр</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="62"/>
         <source>Tanzania</source>
-        <translation>Танзания</translation>
+        <translation>Танзанія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="63"/>
         <source>Nigeria</source>
-        <translation>Нигерия</translation>
+        <translation>Нігерія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="64"/>
@@ -490,12 +490,12 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="65"/>
         <source>Mauritania</source>
-        <translation>Мавритания</translation>
+        <translation>Мавританія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="66"/>
         <source>Niger</source>
-        <translation>Нигер</translation>
+        <translation>Нігер</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="67"/>
@@ -515,7 +515,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="70"/>
         <source>Kenya</source>
-        <translation>Кения</translation>
+        <translation>Кенія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="71"/>
@@ -540,7 +540,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="75"/>
         <source>Malawi</source>
-        <translation>Малави</translation>
+        <translation>Малаві</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="76"/>
@@ -555,7 +555,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="78"/>
         <source>Maldives</source>
-        <translation>Мальдивы</translation>
+        <translation>Мальдіви</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="79"/>
@@ -565,7 +565,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="80"/>
         <source>Croatia</source>
-        <translation>Хорватия</translation>
+        <translation>Хорватія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="81"/>
@@ -580,7 +580,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="83"/>
         <source>Zambia</source>
-        <translation>Замбия</translation>
+        <translation>Замбія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="84"/>
@@ -590,17 +590,17 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="85"/>
         <source>Sierra Leone</source>
-        <translation>Сьерра Леоне</translation>
+        <translation>С"єрра Леоне</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="86"/>
         <source>W. Malaysia</source>
-        <translation>Западная Малайзия</translation>
+        <translation>Західна Малайзія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="87"/>
         <source>E. Malaysia</source>
-        <translation>Восточная Малайзия</translation>
+        <translation>Східна Малайзія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="88"/>
@@ -615,12 +615,12 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="90"/>
         <source>Burundi</source>
-        <translation>Бурунди</translation>
+        <translation>Бурунді</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="91"/>
         <source>Singapore</source>
-        <translation>Сингапур</translation>
+        <translation>Сінгапур</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="92"/>
@@ -630,7 +630,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="93"/>
         <source>Trinidad &amp; Tobago</source>
-        <translation>Тринидад и &amp; Тобаго</translation>
+        <translation>Трінідад и &amp; Тобаго</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="94"/>
@@ -655,7 +655,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="98"/>
         <source>United Arab Emirates</source>
-        <translation>Объединенные Арабские Эмираты</translation>
+        <translation>Об"єднані Арабскі Емірати</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="99"/>
@@ -705,27 +705,27 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="108"/>
         <source>The Gambia</source>
-        <translation>Гамбия</translation>
+        <translation>Гамбія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="109"/>
         <source>Bahamas</source>
-        <translation>Багамы</translation>
+        <translation>Багами</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="110"/>
         <source>Mozambique</source>
-        <translation>Мозамбик</translation>
+        <translation>Мозамбік</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="111"/>
         <source>Chile</source>
-        <translation>Чили</translation>
+        <translation>Чилі</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="112"/>
         <source>San Felix &amp; San Ambrosio</source>
-        <translation>Сан Феликс и Сан Амбросио</translation>
+        <translation>Сан Фелікс и Сан Амбросіо</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="113"/>
@@ -755,12 +755,12 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="118"/>
         <source>Bolivia</source>
-        <translation>Боливия</translation>
+        <translation>Болівія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="119"/>
         <source>Portugal</source>
-        <translation>Португалия</translation>
+        <translation>Португалія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="120"/>
@@ -770,7 +770,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="121"/>
         <source>Azores</source>
-        <translation>Азорские о-ва</translation>
+        <translation>Азорскі о-ви</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="122"/>
@@ -800,22 +800,22 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="127"/>
         <source>Comoros</source>
-        <translation>Коморы</translation>
+        <translation>Комори</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="128"/>
         <source>Germany</source>
-        <translation>Германия</translation>
+        <translation>Німеччина</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="129"/>
         <source>Philippines</source>
-        <translation>Филиппины</translation>
+        <translation>Філіппіни</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="130"/>
         <source>Eritrea</source>
-        <translation>Эритрея</translation>
+        <translation>Эрітрея</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="131"/>
@@ -825,62 +825,62 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="132"/>
         <source>N. Cook Is.</source>
-        <translation>Сев.Кука о.</translation>
+        <translation>Півн.Кука о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="133"/>
         <source>S. Cook Is.</source>
-        <translation>Юж.Кука о.</translation>
+        <translation>Півд.Кука о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="134"/>
         <source>Niue</source>
-        <translation>Ниуэ</translation>
+        <translation>Ниуе</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="135"/>
         <source>Bosnia-Herzegovina</source>
-        <translation>Босния-Герцеговина</translation>
+        <translation>Боснія-Герцеговина</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="136"/>
         <source>Spain</source>
-        <translation>Испания</translation>
+        <translation>Іспанія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="137"/>
         <source>Balearic Is.</source>
-        <translation>Балеарские о.</translation>
+        <translation>Балеарскі о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="138"/>
         <source>Canary Is.</source>
-        <translation>Канарские о.</translation>
+        <translation>Канарскі о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="139"/>
         <source>Ceuta &amp; Melilla</source>
-        <translation>Сеута и Мелилья</translation>
+        <translation>Сеута и Мелілья</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="140"/>
         <source>Ireland</source>
-        <translation>Ирландия</translation>
+        <translation>Ірландія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="141"/>
         <source>Armenia</source>
-        <translation>Армения</translation>
+        <translation>Арменія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="142"/>
         <source>Liberia</source>
-        <translation>Либе́рия</translation>
+        <translation>Лібе́рія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="143"/>
         <source>Iran</source>
-        <translation>Иран</translation>
+        <translation>Іран</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="144"/>
@@ -890,12 +890,12 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="145"/>
         <source>Estonia</source>
-        <translation>Эстония</translation>
+        <translation>Естонія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="146"/>
         <source>Ethiopia</source>
-        <translation>Эфиопия</translation>
+        <translation>Ефіопія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="147"/>
@@ -940,7 +940,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="155"/>
         <source>New Caledonia</source>
-        <translation>Новая Каледония</translation>
+        <translation>Нова Каледонія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="156"/>
@@ -950,12 +950,12 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="157"/>
         <source>Martinique</source>
-        <translation>Мартиника</translation>
+        <translation>Мартиніка</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="158"/>
         <source>Fr. Polynesia</source>
-        <translation>Французская Полинезея</translation>
+        <translation>Французська Полінезія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="159"/>
@@ -965,17 +965,17 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="160"/>
         <source>Clipperton Is.</source>
-        <translation>Клиппертон о.</translation>
+        <translation>Кліппертон о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="161"/>
         <source>Marquesas Is.</source>
-        <translation>Маркизские ост.</translation>
+        <translation>Маркізскі ост.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="162"/>
         <source>St. Pierre &amp; Miquelo</source>
-        <translation>Сен-Пьер и Микелон</translation>
+        <translation>Сен-П"єр та Мікелон</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="163"/>
@@ -990,12 +990,12 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="165"/>
         <source>Glorioso Is.</source>
-        <translation>Глорьезы о.</translation>
+        <translation>Глорьези о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="166"/>
         <source>Juan de Nova, Europa</source>
-        <translation>Жуан-ди-Нова , Европа</translation>
+        <translation>Жуан-ді-Нова , Європа</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="167"/>
@@ -1015,47 +1015,47 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="170"/>
         <source>Amsterdam &amp; St. Paul Is.</source>
-        <translation>Амстердам и Сен-Поль о.</translation>
+        <translation>Амстердам та Сен-Поль о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="171"/>
         <source>Wallis &amp; Futuna Is.</source>
-        <translation>Уоллис и Футуна о.</translation>
+        <translation>Уолліс та Футуна о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="172"/>
         <source>Fr. Guiana</source>
-        <translation>Французская Гвиана</translation>
+        <translation>Французська Гвіана</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="173"/>
         <source>England</source>
-        <translation>Англия</translation>
+        <translation>Англія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="174"/>
         <source>Isle of Man</source>
-        <translation>Ост. Мэн</translation>
+        <translation>Ост. Мен</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="175"/>
         <source>N. Ireland</source>
-        <translation>Сев.Ирландия</translation>
+        <translation>Півн.Ірландія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="176"/>
         <source>Jersey</source>
-        <translation>Джерси</translation>
+        <translation>Джерсі</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="177"/>
         <source>Shetland Is.</source>
-        <translation>Шетландские ост.</translation>
+        <translation>Шетландські ост.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="178"/>
         <source>Scotland</source>
-        <translation>Шотландия</translation>
+        <translation>Шотландія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="179"/>
@@ -1065,32 +1065,32 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="180"/>
         <source>Wales</source>
-        <translation>Уэльс</translation>
+        <translation>Уельс</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="181"/>
         <source>Solomon Is.</source>
-        <translation>Соломоновы ост.</translation>
+        <translation>Соломонові ост.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="182"/>
         <source>Temotu Province</source>
-        <translation>Провинция Темоту</translation>
+        <translation>Провінція Темоту</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="183"/>
         <source>Hungary</source>
-        <translation>Венгрия</translation>
+        <translation>Угорщина</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="184"/>
         <source>Switzerland</source>
-        <translation>Швейцария</translation>
+        <translation>Швейцарія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="185"/>
         <source>Liechtenstein</source>
-        <translation>Лихтенштейн</translation>
+        <translation>Ліхтенштейн</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="186"/>
@@ -1100,27 +1100,27 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="187"/>
         <source>Galapagos Is.</source>
-        <translation>Галапагосские ост.</translation>
+        <translation>Галапагосскі ост.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="188"/>
         <source>Haiti</source>
-        <translation>Гаити</translation>
+        <translation>Гаїті</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="189"/>
         <source>Dominican Rep.</source>
-        <translation>Доминиканская респ.</translation>
+        <translation>Доминиканська респ.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="190"/>
         <source>Colombia</source>
-        <translation>Колумбия</translation>
+        <translation>Колумбія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="191"/>
         <source>San Andres &amp; Providencia</source>
-        <translation>Сан Андрес и Провиденсия</translation>
+        <translation>Сан Андрес и Провіденсія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="192"/>
@@ -1145,7 +1145,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="196"/>
         <source>Thailand</source>
-        <translation>Таиланд</translation>
+        <translation>Таїланд</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="197"/>
@@ -1155,7 +1155,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="198"/>
         <source>Saudi Arabia</source>
-        <translation>Саудовская Аравия</translation>
+        <translation>Саудовська Аравія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="199"/>
@@ -1165,22 +1165,22 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="200"/>
         <source>AF Italy</source>
-        <translation>Афр. Италия</translation>
+        <translation>Афр. Италія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="201"/>
         <source>Sardinia</source>
-        <translation>Сардиния</translation>
+        <translation>Сардинія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="202"/>
         <source>Sicily</source>
-        <translation>Сицилия</translation>
+        <translation>Сицилія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="203"/>
         <source>Djibouti</source>
-        <translation>Джибути</translation>
+        <translation>Джибуті</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="204"/>
@@ -1190,32 +1190,32 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="205"/>
         <source>Guinea-Bissau</source>
-        <translation>Гвинея-Бисау</translation>
+        <translation>Гвінея-Бісау</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="206"/>
         <source>St. Lucia</source>
-        <translation>Сент-Люсия</translation>
+        <translation>Сент-Люсія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="207"/>
         <source>Dominica</source>
-        <translation>Доминика</translation>
+        <translation>Домініка</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="208"/>
         <source>St. Vincent</source>
-        <translation>Сент-Винсент</translation>
+        <translation>Сент-Вінсент</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="209"/>
         <source>Japan</source>
-        <translation>Япония</translation>
+        <translation>Японія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="210"/>
         <source>Minami Torishima</source>
-        <translation>Минамитори</translation>
+        <translation>Мінаміторі</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="211"/>
@@ -1225,27 +1225,27 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="212"/>
         <source>Mongolia</source>
-        <translation>Монголия</translation>
+        <translation>Монголія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="213"/>
         <source>Svalbard</source>
-        <translation>Шпицберген</translation>
+        <translation>Шпіцберген</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="214"/>
         <source>Bear Is.</source>
-        <translation>Медвежий о.</translation>
+        <translation>Ведмежий о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="215"/>
         <source>Jan Mayen</source>
-        <translation>Ян-Майен</translation>
+        <translation>Ян-Майєн</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="216"/>
         <source>Jordan</source>
-        <translation>Иордания</translation>
+        <translation>Іорданія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="217"/>
@@ -1260,7 +1260,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="219"/>
         <source>Mariana Is.</source>
-        <translation>Марианские ост.</translation>
+        <translation>Маріанські ост.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="220"/>
@@ -1280,17 +1280,17 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="223"/>
         <source>Midway Is.</source>
-        <translation>Мидуэй о.</translation>
+        <translation>Мідуэй о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="224"/>
         <source>Palmyra &amp; Jarvis Is.</source>
-        <translation>Пальмира и Джарвис о.</translation>
+        <translation>Пальміра та Джарвіс о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="225"/>
         <source>Hawaii</source>
-        <translation>Гаваи</translation>
+        <translation>Гаваї</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="226"/>
@@ -1300,17 +1300,17 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="227"/>
         <source>American Samoa</source>
-        <translation>Американское Самоа</translation>
+        <translation>Американське Самоа</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="228"/>
         <source>Swains Is.</source>
-        <translation>Суэйнс о.</translation>
+        <translation>Суейнс о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="229"/>
         <source>Wake Is.</source>
-        <translation>Уэйк о.</translation>
+        <translation>Уейк о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="230"/>
@@ -1325,12 +1325,12 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="232"/>
         <source>US Virgin Is.</source>
-        <translation>Виргинские о.</translation>
+        <translation>Вргінські о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="233"/>
         <source>Puerto Rico</source>
-        <translation>Пуэрто Рико</translation>
+        <translation>Пуерто Ріко</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="234"/>
@@ -1340,7 +1340,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="235"/>
         <source>Norway</source>
-        <translation>Норвегия</translation>
+        <translation>Норвегія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="236"/>
@@ -1360,7 +1360,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="239"/>
         <source>Bulgaria</source>
-        <translation>Болгария</translation>
+        <translation>Болгарія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="240"/>
@@ -1375,57 +1375,57 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="242"/>
         <source>Austria</source>
-        <translation>Австрия</translation>
+        <translation>Австрія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="243"/>
         <source>Finland</source>
-        <translation>Финляндия</translation>
+        <translation>Фінляндія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="244"/>
         <source>Aland Is.</source>
-        <translation>Аландские ост.</translation>
+        <translation>Аландські ост.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="245"/>
         <source>Market Reef</source>
-        <translation>Маркет Риф</translation>
+        <translation>Маркет риф</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="246"/>
         <source>Czech Rep.</source>
-        <translation>Чешская респ.</translation>
+        <translation>Чешська респ.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="247"/>
         <source>Slovak Rep.</source>
-        <translation>Словацкая Респ.</translation>
+        <translation>Словацька Респ.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="248"/>
         <source>Belgium</source>
-        <translation>Бельгия</translation>
+        <translation>Бельгія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="249"/>
         <source>Greenland</source>
-        <translation>Гренландия</translation>
+        <translation>Гренландія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="250"/>
         <source>Faroe Is.</source>
-        <translation>Фарерские о.</translation>
+        <translation>Фарерські о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="251"/>
         <source>Denmark</source>
-        <translation>Дания</translation>
+        <translation>Данія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="252"/>
         <source>Papua New Guinea</source>
-        <translation>Папуа Новая Гвинея</translation>
+        <translation>Папуа Нова Гвінея</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="253"/>
@@ -1440,7 +1440,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="255"/>
         <source>Netherlands</source>
-        <translation>Нидерланды</translation>
+        <translation>Нідерланди</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="256"/>
@@ -1455,32 +1455,32 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="258"/>
         <source>Saba &amp; St. Eustatius</source>
-        <translation>Св.Эстатиус и Саба</translation>
+        <translation>Св.Естатиус и Саба</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="259"/>
         <source>Sint Maarten</source>
-        <translation>Синт Мартен</translation>
+        <translation>Сінт Мартен</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="260"/>
         <source>Brazil</source>
-        <translation>Бразилия</translation>
+        <translation>Бразилія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="261"/>
         <source>Fernando de Noronha</source>
-        <translation>Фернанду ди Норонья</translation>
+        <translation>Фернанду ді Норонья</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="262"/>
         <source>St. Peter &amp; St. Paul</source>
-        <translation>Святой Петр и Святой Павел</translation>
+        <translation>Святого Петра и Святого Павла о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="263"/>
         <source>Trindade &amp; Martim Vaz</source>
-        <translation>Триндади и Мартин Вас</translation>
+        <translation>Триндаді та Мартин Вас</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="264"/>
@@ -1490,12 +1490,12 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="265"/>
         <source>Franz Josef Land</source>
-        <translation>Земля Франца Иосифа</translation>
+        <translation>Земля Франца-Йосипа</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="266"/>
         <source>Western Sahara</source>
-        <translation>Западная Сахара</translation>
+        <translation>Західна Сахара</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="267"/>
@@ -1505,27 +1505,27 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="268"/>
         <source>Slovenia</source>
-        <translation>Словения</translation>
+        <translation>Словенія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="269"/>
         <source>Seychelles</source>
-        <translation>Сейшелы</translation>
+        <translation>Сейшели</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="270"/>
         <source>Sao Tome &amp; Principe</source>
-        <translation>Сан-Томе и Принсипи</translation>
+        <translation>Сан-Томе та Принсіпі</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="271"/>
         <source>Sweden</source>
-        <translation>Швеция</translation>
+        <translation>Швеція</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="272"/>
         <source>Poland</source>
-        <translation>Польша</translation>
+        <translation>Польща</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="273"/>
@@ -1535,12 +1535,12 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="274"/>
         <source>Egypt</source>
-        <translation>Египет</translation>
+        <translation>Єгипет</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="275"/>
         <source>Greece</source>
-        <translation>Греция</translation>
+        <translation>Греція</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="276"/>
@@ -1555,7 +1555,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="278"/>
         <source>Crete</source>
-        <translation>Крит</translation>
+        <translation>Кріт</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="279"/>
@@ -1565,17 +1565,17 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="280"/>
         <source>W. Kiribati</source>
-        <translation>Западное Кирибати</translation>
-    </message>
+        <translation>Західний Кирібати</translation>
+    </messag>
     <message>
         <location filename="../logbook/countrydat.cpp" line="281"/>
         <source>C. Kiribati</source>
-        <translation>Центр. Кирибати</translation>
+        <translation>Центр. Кирібаті</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="282"/>
         <source>E. Kiribati</source>
-        <translation>Вост. Кирибати</translation>
+        <translation>Східний Кирібаті</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="283"/>
@@ -1585,12 +1585,12 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="284"/>
         <source>Somalia</source>
-        <translation>Сомали</translation>
+        <translation>Сомалі</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="285"/>
         <source>San Marino</source>
-        <translation>Сан Марино</translation>
+        <translation>Сан Маріно</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="286"/>
@@ -1600,17 +1600,17 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="287"/>
         <source>AS Turkey</source>
-        <translation>Аз.Турция</translation>
+        <translation>Аз.Турція</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="288"/>
         <source>EU Turkey</source>
-        <translation>Европ.Турция</translation>
+        <translation>Європ.Турція</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="289"/>
         <source>Iceland</source>
-        <translation>Исландия</translation>
+        <translation>Ісландія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="290"/>
@@ -1620,12 +1620,12 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="291"/>
         <source>Costa Rica</source>
-        <translation>Коста Рика</translation>
+        <translation>Коста Ріка</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="292"/>
         <source>Cocos Is.</source>
-        <translation>Кокосовы ост.</translation>
+        <translation>Кокосові ост.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="293"/>
@@ -1640,7 +1640,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="295"/>
         <source>C. African Rep.</source>
-        <translation>Центр. Африканская респ.</translation>
+        <translation>Центр. Африканська респ.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="296"/>
@@ -1660,32 +1660,32 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="299"/>
         <source>Cote d&apos;Ivoire</source>
-        <translation>Кот-д&apos;’Ивуар</translation>
+        <translation>Кот-д&apos;’Івуар</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="300"/>
         <source>Benin</source>
-        <translation>Бенин</translation>
+        <translation>Бенін</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="301"/>
         <source>Mali</source>
-        <translation>Мали</translation>
+        <translation>Малі</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="302"/>
         <source>EU Russia</source>
-        <translation>Европ.Россия</translation>
+        <translation>Європ.Росія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="303"/>
         <source>Kaliningrad</source>
-        <translation>Калининград</translation>
+        <translation>Калінінград</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="304"/>
         <source>AS Russia</source>
-        <translation>Аз.Россия</translation>
+        <translation>Аз.Росія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="305"/>
@@ -1700,7 +1700,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="307"/>
         <source>Ukraine</source>
-        <translation>Украина</translation>
+        <translation>Україна</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="308"/>
@@ -1710,27 +1710,27 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="309"/>
         <source>Belize</source>
-        <translation>Белиз</translation>
+        <translation>Беліз</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="310"/>
         <source>St. Kitts &amp; Nevis</source>
-        <translation>Сент-Китс и Невис</translation>
+        <translation>Сент-Кітс и Невіс</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="311"/>
         <source>Namibia</source>
-        <translation>Намибия</translation>
+        <translation>Намібія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="312"/>
         <source>Micronesia</source>
-        <translation>Микронезия</translation>
+        <translation>Мікронезія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="313"/>
         <source>Marshall Is.</source>
-        <translation>Маршалловы ост.</translation>
+        <translation>Маршалові ост.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="314"/>
@@ -1745,7 +1745,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="316"/>
         <source>Australia</source>
-        <translation>Австралия</translation>
+        <translation>Австралія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="317"/>
@@ -1755,12 +1755,12 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="318"/>
         <source>Macquarie Is.</source>
-        <translation>Маккуори о.</translation>
+        <translation>Маккуорі о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="319"/>
         <source>Cocos (Keeling) Is.</source>
-        <translation>Кокосовые (Килинг) о.</translation>
+        <translation>Кокосові (Кілінг) о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="320"/>
@@ -1770,7 +1770,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="321"/>
         <source>Mellish Reef</source>
-        <translation>Меллиш Риф</translation>
+        <translation>Мелліш Риф</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="322"/>
@@ -1780,12 +1780,12 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="323"/>
         <source>Willis Is.</source>
-        <translation>Уиллис о.</translation>
+        <translation>Уілліс о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="324"/>
         <source>Christmas Is.</source>
-        <translation>Рождества о.</translation>
+        <translation>Різдва о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="325"/>
@@ -1800,22 +1800,22 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="327"/>
         <source>British Virgin Is.</source>
-        <translation>Британская Вирджиния о.</translation>
+        <translation>Британська Вірджинія о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="328"/>
         <source>Turks &amp; Caicos Is.</source>
-        <translation>Тёркс и Кайкос о.</translation>
+        <translation>Теркс та Кайкос о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="329"/>
         <source>Pitcairn Is.</source>
-        <translation>Питкэрн о.</translation>
+        <translation>Піткерн о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="330"/>
         <source>Ducie Is.</source>
-        <translation>Дьюси о.</translation>
+        <translation>Дюсі о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="331"/>
@@ -1825,27 +1825,27 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="332"/>
         <source>S. Georgia Is.</source>
-        <translation>Юж. Георгия о.</translation>
+        <translation>Півд. Георгія о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="333"/>
         <source>S. Shetland Is.</source>
-        <translation>Юж.Шетландские о.</translation>
+        <translation>Півд.Шетландські о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="334"/>
         <source>S. Orkney Is.</source>
-        <translation>Юж. Оркнейские о.</translation>
+        <translation>Півд. Оркнейські о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="335"/>
         <source>S. Sandwich Is.</source>
-        <translation>Юж. Сандвичевы о.</translation>
+        <translation>Півд. Сандвічеві о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="336"/>
         <source>Bermuda</source>
-        <translation>Берму́дские Ост.́</translation>
+        <translation>Берму́дскі Ост.́</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="337"/>
@@ -1860,12 +1860,12 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="339"/>
         <source>India</source>
-        <translation>Индия</translation>
+        <translation>Індія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="340"/>
         <source>Andaman &amp; Nicobar Is.</source>
-        <translation>Андаманские и Никобарские о.</translation>
+        <translation>Андаманські та Нікобарські о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="341"/>
@@ -1880,12 +1880,12 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="343"/>
         <source>Revillagigedo</source>
-        <translation>Ост. Ревилья-Хихедо</translation>
+        <translation>Ост. Ревілья-Хіхедо</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="344"/>
         <source>Burkina Faso</source>
-        <translation>Буркина-Фасо</translation>
+        <translation>Буркіна-Фасо</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="345"/>
@@ -1910,17 +1910,17 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="349"/>
         <source>Afghanistan</source>
-        <translation>Афганистан</translation>
+        <translation>Афганістан</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="350"/>
         <source>Indonesia</source>
-        <translation>Индонезия</translation>
+        <translation>Індонезія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="351"/>
         <source>Iraq</source>
-        <translation>Ирак</translation>
+        <translation>Ірак</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="352"/>
@@ -1930,22 +1930,22 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="353"/>
         <source>Syria</source>
-        <translation>Сирия</translation>
+        <translation>Сирія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="354"/>
         <source>Latvia</source>
-        <translation>Латвия</translation>
+        <translation>Латвія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="355"/>
         <source>Nicaragua</source>
-        <translation>Никарагуа</translation>
+        <translation>Нікарагуа</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="356"/>
         <source>Romania</source>
-        <translation>Румыния</translation>
+        <translation>Румынія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="357"/>
@@ -1955,12 +1955,12 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="358"/>
         <source>Serbia</source>
-        <translation>Сербия</translation>
+        <translation>Сербія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="359"/>
         <source>Venezuela</source>
-        <translation>Венесуэла</translation>
+        <translation>Венесуела</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="360"/>
@@ -1970,12 +1970,12 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="361"/>
         <source>Zimbabwe</source>
-        <translation>Зимбабве</translation>
+        <translation>Зімбабве</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="362"/>
         <source>N. Macedonia</source>
-        <translation>Сев. Македония</translation>
+        <translation>Півн. Македонія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="363"/>
@@ -1985,42 +1985,42 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="364"/>
         <source>Rep. of S. Sudan</source>
-        <translation>Респ. Юж. Судан</translation>
+        <translation>Респ. Півд. Судан</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="365"/>
         <source>Albania</source>
-        <translation>Албания</translation>
+        <translation>Албанія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="366"/>
         <source>Gibraltar</source>
-        <translation>Гибралтар</translation>
+        <translation>Гібралтар</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="367"/>
         <source>UK Base Areas on Cyprus</source>
-        <translation>территория базы Великобритании на Кипре</translation>
+        <translation>територія бази Великої Британії на Кіпрі</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="368"/>
         <source>St. Helena</source>
-        <translation>Св.Елена</translation>
+        <translation>Св.Єлена</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="369"/>
         <source>Ascension Is.</source>
-        <translation>Вознесения о.</translation>
+        <translation>Вознесіння о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="370"/>
         <source>Tristan da Cunha &amp; Gough</source>
-        <translation>Тристан да Кунья и Гоф</translation>
+        <translation>Тристан да Кунья та Гоф</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="371"/>
         <source>Cayman Is.</source>
-        <translation>Каймановы о.</translation>
+        <translation>Кайманові о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="372"/>
@@ -2030,7 +2030,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="373"/>
         <source>New Zealand</source>
-        <translation>Новая Зеландия</translation>
+        <translation>Нова Зеландія</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="374"/>
@@ -2045,7 +2045,7 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="376"/>
         <source>N.Z. Subantarctic Is.</source>
-        <translation>Новозела́ндские Субантаркти́ческие о.</translation>
+        <translation>Новозела́ндські Субантаркти́чні о.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="377"/>
@@ -2055,12 +2055,12 @@ Format:
     <message>
         <location filename="../logbook/countrydat.cpp" line="378"/>
         <source>S. Africa</source>
-        <translation>Юж.Африка</translation>
+        <translation>Півд.Африка</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="379"/>
         <source>Pr. Edward &amp; Marion Is.</source>
-        <translation>Принца Эдуарда и Марион о.</translation>
+        <translation>Принца Едуарда та Маріон о.</translation>
     </message>
 </context>
 <context>
@@ -2069,43 +2069,43 @@ Format:
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="73"/>
         <source>Failed to connect to DX Lab Suite Commander
 </source>
-        <translation>Ошибка подключения к DX Lab Suite Commander
+        <translation>Помилка підключення до DX Lab Suite Commander
 </translation>
     </message>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="129"/>
         <source>DX Lab Suite Commander didn&apos;t respond correctly reading frequency: </source>
-        <translation>DX Lab Suite Commander неправильно&apos;t реагирует на считанную частоту: </translation>
+        <translation>DX Lab Suite Commander невірно &apos;t реагує на скановану частоту: </translation>
     </message>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="176"/>
         <source>DX Lab Suite Commander sent an unrecognised TX state: </source>
-        <translation>DX Lab Suite Commander отправил нераспознанное состояние TX: </translation>
+        <translation>DX Lab Suite Commander відправив неррозпізнаний стан TX: </translation>
     </message>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="182"/>
         <source>DX Lab Suite Commander didn&apos;t respond correctly polling TX status: </source>
-        <translation>DX Lab Suite Commander не ответил&apos;t правильно, опрашивая статус TX: </translation>
+        <translation>DX Lab Suite Commander не відповів&apos;t правильно, опитуючи статус TX: </translation>
     </message>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="190"/>
         <source>DX Lab Suite Commander rig did not respond to PTT: </source>
-        <translation>Настройка DX Lab Suite Commander не отвечает на PTT: </translation>
+        <translation>Налаштування DX Lab Suite Commander не відповідає на PTT: </translation>
     </message>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="276"/>
         <source>DX Lab Suite Commander didn&apos;t respond correctly polling frequency: </source>
-        <translation>DX Lab Suite Commander не отвечал&apos;t правильно на частоту опроса: </translation>
+        <translation>DX Lab Suite Commander не відповідав&apos;t правильно на частоту запитів: </translation>
     </message>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="297"/>
         <source>DX Lab Suite Commander didn&apos;t respond correctly polling TX frequency: </source>
-        <translation>DX Lab Suite Commander не отвечал&apos;t правильно, опрашивая частоту передачи: </translation>
+        <translation>DX Lab Suite Commander не відповідав&apos;t правильно, опитуючи частоту передачі: </translation>
     </message>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="316"/>
         <source>DX Lab Suite Commander sent an unrecognised split state: </source>
-        <translation>DX Lab Suite Commander отправил нераспознанное cостояние split: </translation>
+        <translation>DX Lab Suite Commander відправив нерозпізнаний стан split: </translation>
     </message>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="322"/>
