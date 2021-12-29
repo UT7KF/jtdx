@@ -84,7 +84,7 @@ Another application may be locking the directory</source>
     <message>
         <location filename="../Configuration.cpp" line="1408"/>
         <source>Create data directory error: </source>
-        <translation>Помилка утворення папки данихх: </translation>
+        <translation>Помилка утворення папки даних: </translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1417"/>
@@ -2311,27 +2311,27 @@ Error: %2 - %3</source>
     <message>
         <location filename="../SampleDownloader/Directory.cpp" line="218"/>
         <source>Contents entries must have a valid name</source>
-        <translation>Содержание записей должно иметь правильное имя</translation>
+        <translation>Зміст  записів повинен мати правильне ім"я</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/Directory.cpp" line="224"/>
         <source>Contents entries must be JSON objects</source>
-        <translation>Записи контента должны быть объектами JSON</translation>
+        <translation>Записи контенту повинні бути об"єктами JSON</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/Directory.cpp" line="231"/>
         <source>Contents directories must be relative and within &quot;%1&quot;</source>
-        <translation>Каталоги контента должны быть относительными и находиться в пределах &quot;%1&quot;</translation>
+        <translation>Каталоги контенту повинні бути відносними та  находитися в межах &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/Directory.cpp" line="298"/>
         <source>Network Error</source>
-        <translation>Ошибка сети</translation>
+        <translation>Помилка мережі</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/Directory.cpp" line="298"/>
         <source>Authentication required</source>
-        <translation>Необходима аутентификация</translation>
+        <translation>Потрібна аутентификація</translation>
     </message>
 </context>
 <context>
@@ -2339,7 +2339,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../EmulateSplitTransceiver.cpp" line="50"/>
         <source>Emulated split mode requires rig to be in simplex mode</source>
-        <translation>Эмулируемый режим split требует, чтобы трансивер был в симплексном режиме</translation>
+        <translation>Емульований режим split вимагає, щоб трансивер був в сімплексному режимі</translation>
     </message>
 </context>
 <context>
@@ -2347,12 +2347,12 @@ Error: %2 - %3</source>
     <message>
         <location filename="../Configuration.cpp" line="219"/>
         <source>Add Frequency</source>
-        <translation>Добавить частоту</translation>
+        <translation>Додати частоту</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="224"/>
         <source>IARU &amp;Region:</source>
-        <translation>IARU &amp;Регион:</translation>
+        <translation>IARU &amp;Регіон:</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="225"/>
@@ -2372,7 +2372,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../Configuration.cpp" line="233"/>
         <source>&amp;Cancel</source>
-        <translation>О&amp;тменить</translation>
+        <translation>&amp;Скасувати</translation>
     </message>
 </context>
 <context>
@@ -2381,7 +2381,7 @@ Error: %2 - %3</source>
         <location filename="../FrequencyList.cpp" line="513"/>
         <location filename="../FrequencyList.cpp" line="700"/>
         <source>IARU Region</source>
-        <translation>IARU Регион</translation>
+        <translation>IARU Регіон</translation>
     </message>
     <message>
         <location filename="../FrequencyList.cpp" line="534"/>
@@ -2405,7 +2405,7 @@ Error: %2 - %3</source>
         <location filename="../FrequencyList.cpp" line="620"/>
         <location filename="../FrequencyList.cpp" line="704"/>
         <source>Mode Frequency</source>
-        <translation>Частота вида модуляции</translation>
+        <translation>Частота вида модуляції</translation>
     </message>
 </context>
 <context>
@@ -2415,34 +2415,34 @@ Error: %2 - %3</source>
         <location filename="../HRDTransceiver.cpp" line="153"/>
         <source>Failed to connect to Ham Radio Deluxe
 </source>
-        <translation>Ошибка связи с Ham Radio Deluxe
+        <translation>Помилка зв"язку з Ham Radio Deluxe
 </translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="162"/>
         <source>Failed to open file &quot;%1&quot;: %2.</source>
-        <translation>Ошибка открытия файла &quot;%1&quot;: %2.</translation>
+        <translation>Помилка відкриття  файла &quot;%1&quot;: %2.</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="177"/>
         <location filename="../HRDTransceiver.cpp" line="201"/>
         <source>Ham Radio Deluxe: no rig found</source>
-        <translation>Ham Radio Deluxe: не обнаружен трансивер</translation>
+        <translation>Ham Radio Deluxe:  трансівер< не виявлено/translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="425"/>
         <source>Ham Radio Deluxe: rig doesn&apos;t support mode</source>
-        <translation>Ham Radio Deluxe: трансивер не поддерживает&apos;t режим</translation>
+        <translation>Ham Radio Deluxe: трансівер не підтримує&apos;t режим</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="444"/>
         <source>Ham Radio Deluxe: sent an unrecognised mode</source>
-        <translation>Ham Radio Deluxe: отправил неизвестный режим</translation>
+        <translation>Ham Radio Deluxe: відправив невідомий режим</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="479"/>
         <source>Ham Radio Deluxe: item not found in %1 dropdown list</source>
-        <translation>Ham Radio Deluxe: элемент не найден в выпадающем списке %1</translation>
+        <translation>Ham Radio Deluxe: елемент не знайдено у списку %1</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="523"/>
@@ -2452,47 +2452,47 @@ Error: %2 - %3</source>
     <message>
         <location filename="../HRDTransceiver.cpp" line="889"/>
         <source>Ham Radio Deluxe didn&apos;t respond as expected</source>
-        <translation>Ham Radio Deluxe некорректно ответил</translation>
+        <translation>Ham Radio Deluxe некоректно відповів</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="1038"/>
         <source>Ham Radio Deluxe: rig has disappeared or changed</source>
-        <translation>Ham Radio Deluxe: трансивер выключен или изменился</translation>
+        <translation>Ham Radio Deluxe: трансівер вимкнуто або змінено</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="1053"/>
         <source>Ham Radio Deluxe send command &quot;%1&quot; failed %2
 </source>
-        <translation>Ham Radio Deluxe отправить команду &quot;%1&quot; не удалось %2
+        <translation>Ham Radio Deluxe відправити команду &quot;%1&quot; не вдалося %2
 </translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="1066"/>
         <location filename="../HRDTransceiver.cpp" line="1079"/>
         <source>Ham Radio Deluxe: failed to write command &quot;%1&quot;</source>
-        <translation>Ham Radio Deluxe: не удалось записать команду &quot;%1&quot;</translation>
+        <translation>Ham Radio Deluxe: не удалося записати команду &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="1096"/>
         <source>Ham Radio Deluxe sent an invalid reply to our command &quot;%1&quot;</source>
-        <translation>Ham Radio Deluxe отправил неверный ответ на команду &quot;%1&quot;</translation>
+        <translation>Ham Radio Deluxe відправив невірну відповідь на команду &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="1150"/>
         <source>Ham Radio Deluxe failed to reply to command &quot;%1&quot; %2
 </source>
-        <translation>Ham Radio Deluxe не ответил на команду &quot;%1&quot; %2
+        <translation>Ham Radio Deluxe не відповів на команду &quot;%1&quot; %2
 </translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="1160"/>
         <source>Ham Radio Deluxe retries exhausted sending command &quot;%1&quot;</source>
-        <translation>Ham Radio Deluxe повторяет выданную команду &quot;%1&quot;</translation>
+        <translation>Ham Radio Deluxe повторює выдану команду &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="1173"/>
         <source>Ham Radio Deluxe didn&apos;t respond to command &quot;%1&quot; as expected</source>
-        <translation>Ham Radio Deluxe не отвечает на команду &quot;%1&quot;  как и ожидалось</translation>
+        <translation>Ham Radio Deluxe не відповідає на команду &quot;%1&quot;  як  очікувалось</translation>
     </message>
 </context>
 <context>
@@ -2501,82 +2501,82 @@ Error: %2 - %3</source>
         <location filename="../HamlibTransceiver.cpp" line="214"/>
         <location filename="../HamlibTransceiver.cpp" line="295"/>
         <source>Hamlib initialisation error</source>
-        <translation>Ошибка инициализации Hamlib</translation>
+        <translation>Помилка ініциалізації Hamlib</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="255"/>
         <source>Command completed successfully</source>
-        <translation>Команда успешно выполнена</translation>
+        <translation>Команда успішно виконана/translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="256"/>
         <source>Invalid parameter</source>
-        <translation>Неверный параметр</translation>
+        <translation>Невірний параметр</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="257"/>
         <source>Invalid configuration</source>
-        <translation>Неверная конфигурация</translation>
+        <translation>Невірна конфігурація</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="258"/>
         <source>Memory shortage</source>
-        <translation>Нехватка памяти</translation>
+        <translation>Дефіцит пам"яті</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="259"/>
         <source>Feature not implemented</source>
-        <translation>Функция не реализована</translation>
+        <translation>Функція не реалізована</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="260"/>
         <source>Communication timed out</source>
-        <translation>Время коннекта истекло</translation>
+        <translation>Час з"єднання вичерпано</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="261"/>
         <source>IO error</source>
-        <translation>Ошибка ввода/вывода</translation>
+        <translation>Помилка введення/виведення/translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="262"/>
         <source>Internal Hamlib error</source>
-        <translation>Внутрення ошибка библиотеки Hamlib</translation>
+        <translation>Внутрішня помилка бібліотеки Hamlib</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="263"/>
         <source>Protocol error</source>
-        <translation>Ошибка протокола обмена</translation>
+        <translation>Помилка  протокола обміну</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="264"/>
         <source>Command rejected by the rig</source>
-        <translation>Команда отклонена трансивером</translation>
+        <translation>Команда відхіленана трансівером</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="265"/>
         <source>Command performed, but arg truncated, result not guaranteed</source>
-        <translation>Команда выполнена, но аргумент обрезан, результат не гарантирован</translation>
+        <translation>Команда виконана, але аргумент обрізаний, результат не гарантировано</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="266"/>
         <source>Feature not available</source>
-        <translation>Функция недоступна</translation>
+        <translation>Функція недоступна</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="267"/>
         <source>Target VFO unaccessible</source>
-        <translation>Целевой VFO недоступен</translation>
+        <translation>Цільовий VFO недоступний</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="268"/>
         <source>Communication bus error</source>
-        <translation>Ошибка шины связи</translation>
+        <translation>Помилка шины зв"язку</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="269"/>
         <source>Communication bus collision</source>
-        <translation>Коллизии при работ шины свсязи</translation>
+        <translation>Колізія при роботі шини зв"язку</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="270"/>
