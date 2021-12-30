@@ -2616,54 +2616,54 @@ Error: %2 - %3</source>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="461"/>
         <source>Hamlib error: %1 while %2</source>
-        <translation>Ошибка Hamlib %1 while %2</translation>
+        <translation>Помилка Hamlib %1 while %2</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="478"/>
         <source>opening connection to rig</source>
-        <translation>текущее соединение с трансивером</translation>
+        <translation>поточне з"єднання з трансівером</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="540"/>
         <source>getting current frequency</source>
-        <translation>получение текущей частоты</translation>
+        <translation>отримання поточної частоти</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="549"/>
         <source>getting current mode</source>
-        <translation>получение текущего режима</translation>
+        <translation>отримання поточного режиму</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="598"/>
         <location filename="../HamlibTransceiver.cpp" line="633"/>
         <source>exchanging VFOs</source>
-        <translation>обмен VFOs</translation>
+        <translation>обмін VFOs</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="606"/>
         <location filename="../HamlibTransceiver.cpp" line="1162"/>
         <source>getting other VFO frequency</source>
-        <translation>получение частоты другого VFO</translation>
+        <translation>отримання частоти іншого VFO</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="615"/>
         <source>getting other VFO mode</source>
-        <translation>Получение режима другого VFO</translation>
+        <translation>отримання режиму іншого VFO</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="643"/>
         <source>setting current VFO</source>
-        <translation>установка текущего VFO</translation>
+        <translation>установлення текущего VFO</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="652"/>
         <source>getting frequency</source>
-        <translation>получение частоты</translation>
+        <translation>Отримання частоти</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="661"/>
         <source>getting mode</source>
-        <translation></translation>
+        <translation>Отримання моди</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="683"/>
