@@ -2687,7 +2687,7 @@ Error: %2 - %3</source>
         <location filename="../HamlibTransceiver.cpp" line="877"/>
         <location filename="../HamlibTransceiver.cpp" line="938"/>
         <source>setting frequency</source>
-        <translation>установлення частот</translation>
+        <translation>установлення частоти</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="867"/>
@@ -2704,7 +2704,7 @@ Error: %2 - %3</source>
         <location filename="../HamlibTransceiver.cpp" line="1023"/>
         <location filename="../HamlibTransceiver.cpp" line="1036"/>
         <source>setting current VFO mode</source>
-        <translation>встановлення режиму поточногоо VFO</translation>
+        <translation>встановлення режиму поточного VFO</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="925"/>
@@ -2804,68 +2804,68 @@ Error: %2 - %3</source>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="44"/>
         <source>Yes to &amp;All</source>
-        <translation>Да для &amp;всех</translation>
+        <translation>Так для &amp;всіх</translation>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="45"/>
         <location filename="../mainwindow.cpp" line="4049"/>
         <source>&amp;No</source>
-        <translation>&amp;Нет</translation>
+        <translation>&amp;Ні</translation>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="46"/>
-        <source>N&amp;o to All</source>
-        <translation>Н&amp;ет для всех</translation>
+        <source>N&amp;no to All</source>
+        <translation>Н&amp;Ні для всіх</translation>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="47"/>
         <source>Abort</source>
-        <translation>Прервать</translation>
+        <translation>Перервати</translation>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="48"/>
         <source>&amp;Retry</source>
-        <translation>&amp;Повторить</translation>
+        <translation>&amp;Повторити</translation>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="49"/>
         <source>Ignore</source>
-        <translation>Игнорировать</translation>
+        <translation>Ігнорувати</translation>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="50"/>
         <source>Close</source>
-        <translation>Закрыть</translation>
+        <translation>Закрити</translation>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="51"/>
         <source>&amp;Cancel</source>
-        <translation>О&amp;тменить</translation>
+        <translation>О&amp;Скасувати</translation>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="52"/>
         <source>Discard</source>
-        <translation>Отменить</translation>
+        <translation>ВАідкинути</translation>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="53"/>
         <source>Help</source>
-        <translation>Помощь</translation>
+        <translation>Допомога</translation>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="54"/>
         <source>Apply</source>
-        <translation>Принять</translation>
+        <translation>Застосувати</translation>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="55"/>
         <source>Reset</source>
-        <translation>Сброс</translation>
+        <translation>Скидання/translation>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="56"/>
         <source>Restore Defaults</source>
-        <translation>Восстановить по умолчанию</translation>
+        <translation>Відновити за замовчуванням</translation>
     </message>
 </context>
 <context>
