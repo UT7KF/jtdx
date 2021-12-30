@@ -5170,7 +5170,7 @@ list. The list can be maintained in Settings (F2).</source>
     <message>
         <location filename="../mainwindow.cpp" line="4606"/>
         <source>Tx: TUNE</source>
-        <translation>Tx: Настройка</translation>
+        <translation>Tx: Тюнинг</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4607"/>
@@ -5273,7 +5273,7 @@ is already in CALL3.TXT, do you wish to replace it?</source>
     <message>
         <location filename="../mainwindow.cpp" line="7384"/>
         <source>Prefixes</source>
-        <translation>Префиксы</translation>
+        <translation>Префікси</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="7460"/>
@@ -5344,7 +5344,7 @@ UDP сервер %2:%3</translation>
     <message>
         <location filename="../Configuration.cpp" line="5374"/>
         <source>File &amp;name:</source>
-        <translation>Имя файла:</translation>
+        <translation>Им"я файла:</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5375"/>
@@ -5359,32 +5359,32 @@ UDP сервер %2:%3</translation>
     <message>
         <location filename="../Configuration.cpp" line="5377"/>
         <source>&amp;Save</source>
-        <translation>Звук.файлы</translation>
+        <translation>Звук.файли</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5379"/>
         <source>All files (*)</source>
-        <translation>Все файды (*)</translation>
+        <translation>Усі файли (*)</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5380"/>
         <source>New Folder</source>
-        <translation>Новая папка</translation>
+        <translation>Нова папка</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5381"/>
         <source>Delete</source>
-        <translation>Удалить</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5378"/>
         <source>Cancel</source>
-        <translation>Отменить</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5382"/>
         <source>&amp;Delete</source>
-        <translation>Удалить</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5383"/>
@@ -5399,7 +5399,7 @@ UDP сервер %2:%3</translation>
     <message>
         <location filename="../Configuration.cpp" line="5385"/>
         <source>&amp;New Folder</source>
-        <translation>Новая папка</translation>
+        <translation>Нова папка</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5386"/>
@@ -5419,7 +5419,7 @@ UDP сервер %2:%3</translation>
     <message>
         <location filename="../Configuration.cpp" line="5395"/>
         <source>Go back</source>
-        <translation>Вернуться</translation>
+        <translation>Повернутисяся</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5396"/>
@@ -5479,7 +5479,7 @@ UDP сервер %2:%3</translation>
     <message>
         <location filename="../Configuration.cpp" line="5407"/>
         <source>Detail View</source>
-        <translation>Детальный просмотр</translation>
+        <translation>Детальний перегляд</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5408"/>
