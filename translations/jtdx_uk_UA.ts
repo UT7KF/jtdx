@@ -2357,7 +2357,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../Configuration.cpp" line="225"/>
         <source>&amp;Mode:</source>
-        <translation>&amp;Вид:</translation>
+        <translation>&amp;Мода:</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="226"/>
@@ -2669,7 +2669,7 @@ Error: %2 - %3</source>
         <location filename="../HamlibTransceiver.cpp" line="683"/>
         <location filename="../HamlibTransceiver.cpp" line="1077"/>
         <source>getting current VFO</source>
-        <translation>выбор текущего VFO</translation>
+        <translation>вибір поточного VFO</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="742"/>
@@ -2677,7 +2677,7 @@ Error: %2 - %3</source>
         <location filename="../HamlibTransceiver.cpp" line="764"/>
         <location filename="../HamlibTransceiver.cpp" line="1136"/>
         <source>getting current VFO frequency</source>
-        <translation>получение частоты текущего VFO</translation>
+        <translation>отримання частоти поточного VFO</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="748"/>
@@ -2687,7 +2687,7 @@ Error: %2 - %3</source>
         <location filename="../HamlibTransceiver.cpp" line="877"/>
         <location filename="../HamlibTransceiver.cpp" line="938"/>
         <source>setting frequency</source>
-        <translation>установка частоты</translation>
+        <translation>установлення частот</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="867"/>
@@ -2695,7 +2695,7 @@ Error: %2 - %3</source>
         <location filename="../HamlibTransceiver.cpp" line="1017"/>
         <location filename="../HamlibTransceiver.cpp" line="1030"/>
         <source>getting current VFO mode</source>
-        <translation>получение режима текущего VFO</translation>
+        <translation>отримання режиму поточного VFO</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="873"/>
@@ -2704,64 +2704,64 @@ Error: %2 - %3</source>
         <location filename="../HamlibTransceiver.cpp" line="1023"/>
         <location filename="../HamlibTransceiver.cpp" line="1036"/>
         <source>setting current VFO mode</source>
-        <translation>установка тежима текущего VFO</translation>
+        <translation>встановлення режиму поточногоо VFO</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="925"/>
         <location filename="../HamlibTransceiver.cpp" line="994"/>
         <source>setting/unsetting split mode</source>
-        <translation>установить/снять режим split</translation>
+        <translation>встановити/скасувати режим split</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="936"/>
         <location filename="../HamlibTransceiver.cpp" line="976"/>
         <source>setting split mode</source>
-        <translation>установить режим split</translation>
+        <translation>встановити режим split</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="964"/>
         <source>setting split TX frequency and mode</source>
-        <translation>установка split для частоты и режима TX</translation>
+        <translation>встановлення split для частоти та моди TX</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="969"/>
         <source>setting split TX frequency</source>
-        <translation>установка split для частоты TX</translation>
+        <translation>встановлення split для частоти TX</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="1041"/>
         <source>getting split TX VFO mode</source>
-        <translation>получение режима split TX VFO</translation>
+        <translation>отримання режиму split TX VFO</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="1048"/>
         <source>setting split TX VFO mode</source>
-        <translation>установка split режима TX VFO</translation>
+        <translation>увстановлення split режиму TX VFO</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="1328"/>
         <source>getting PTT state</source>
-        <translation>получение статуса PTT</translation>
+        <translation>отримання статусу PTT</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="1364"/>
         <source>setting PTT on</source>
-        <translation>активирование PTT</translation>
+        <translation>активація PTT</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="1372"/>
         <source>setting PTT off</source>
-        <translation>деактивация PTT</translation>
+        <translation>деактивація PTT</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="1384"/>
         <source>setting a configuration item</source>
-        <translation>настройка элементов конфигурации</translation>
+        <translation>налаштування елементів конфигурації</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="1394"/>
         <source>getting a configuration item</source>
-        <translation>считывание элементов конфигурации</translation>
+        <translation>зчитування елементів конфигурації</translation>
     </message>
 </context>
 <context>
@@ -2770,7 +2770,7 @@ Error: %2 - %3</source>
         <location filename="../IARURegions.cpp" line="58"/>
         <location filename="../IARURegions.cpp" line="85"/>
         <source>IARU Region</source>
-        <translation>Регион IARU</translation>
+        <translation>Регіон IARU</translation>
     </message>
 </context>
 <context>
@@ -2783,17 +2783,17 @@ Error: %2 - %3</source>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="40"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation>Зберегти</translation>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="41"/>
         <source>Save All</source>
-        <translation>Сохранить все</translation>
+        <translation>Зберегти все</translation>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="42"/>
         <source>Open</source>
-        <translation>Открыть</translation>
+        <translation>Відкрити</translation>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="43"/>
