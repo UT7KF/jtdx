@@ -2799,7 +2799,7 @@ Error: %2 - %3</source>
         <location filename="../JTDXMessageBox.cpp" line="43"/>
         <location filename="../mainwindow.cpp" line="4046"/>
         <source>&amp;Yes</source>
-        <translation>&amp;Да</translation>
+        <translation>&amp;Так</translation>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="44"/>
@@ -2873,17 +2873,17 @@ Error: %2 - %3</source>
     <message>
         <location filename="../logqso.ui" line="28"/>
         <source>Click OK to confirm the following QSO:</source>
-        <translation>Нажмите OK, чтобы подтвердить следующее QSO:</translation>
+        <translation>Натисніть OK, для підтвердження наступного QSO:</translation>
     </message>
     <message>
         <location filename="../logqso.ui" line="44"/>
         <source>Call</source>
-        <translation>Позывной</translation>
+        <translation>Call</translation>
     </message>
     <message>
         <location filename="../logqso.ui" line="66"/>
         <source>Start</source>
-        <translation>Начало</translation>
+        <translation>Старт</translation>
     </message>
     <message>
         <location filename="../logqso.ui" line="82"/>
@@ -2894,7 +2894,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../logqso.ui" line="98"/>
         <source>End</source>
-        <translation>Окончание</translation>
+        <translation>Фініш</translation>
     </message>
     <message>
         <location filename="../logqso.ui" line="134"/>
@@ -2904,7 +2904,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../logqso.ui" line="163"/>
         <source>Band</source>
-        <translation>Диапазон</translation>
+        <translation>Діапазон</translation>
     </message>
     <message>
         <location filename="../logqso.ui" line="192"/>
@@ -2915,7 +2915,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../logqso.ui" line="221"/>
         <source>Rpt Rcvd</source>
-        <translation>Принятый
+        <translation>Прийнятий
 рапорт</translation>
     </message>
     <message>
@@ -2926,24 +2926,24 @@ Error: %2 - %3</source>
     <message>
         <location filename="../logqso.ui" line="282"/>
         <source>Name</source>
-        <translation>Имя</translation>
+        <translation>Им"я</translation>
     </message>
     <message>
         <location filename="../logqso.ui" line="305"/>
         <source>Tx power</source>
-        <translation>Мощность передатчика</translation>
+        <translation>Потужність передавача</translation>
     </message>
     <message>
         <location filename="../logqso.ui" line="315"/>
         <location filename="../logqso.ui" line="348"/>
         <location filename="../logqso.ui" line="381"/>
         <source>Retain</source>
-        <translation>Сохранить</translation>
+        <translation>Зберегти</translation>
     </message>
     <message>
         <location filename="../logqso.ui" line="334"/>
         <source>Comments</source>
-        <translation>Комментарии</translation>
+        <translation>Комментарі</translation>
     </message>
     <message>
         <location filename="../logqso.ui" line="367"/>
@@ -2958,12 +2958,12 @@ Error: %2 - %3</source>
     <message>
         <location filename="../logqso.cpp" line="28"/>
         <source>&amp;Cancel</source>
-        <translation>О&amp;тменить</translation>
+        <translation>&amp;Скасувати</translation>
     </message>
     <message>
         <location filename="../logqso.cpp" line="215"/>
         <source>Cannot open &quot;%1&quot; for append: %2</source>
-        <translation>Невозможно открыть &quot;%1&quot; для добавления: %2</translation>
+        <translation>Неможливо відкрити для додавання &quot;%1&quot;: %2</translation>
     </message>
 </context>
 <context>
@@ -2976,7 +2976,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../mainwindow.ui" line="175"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Avg: accumulated average DT of decoded signals on current band.&lt;/p&gt;&lt;p&gt;Lag: it is decoder lag calculated relatively to beginning of next interval, negative values mean there is spare time available to increase decoding depth, positive values is decoder&apos;s lag into TX or next interval meaning there may be no enough CPU resources for selected decoding depth to provide reliable signal transmission.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Lag depends on CPU performance, noise conditions, band fullness and other programs using computer, it can be decreased by reducing waterfall bandwidth. If Lag is constantly negative then CPU handling well interval decoding and you can try to make decoding more aggressive to get more decodes.&lt;/p&gt;&lt;p&gt;FT8: if Lag is 0 .. 0.4 then you can still use Autoseq 3/7 (autoselect will trigger change of TX message early enough to transmit full message). If Lag &gt; 0.4 then you should try to decrease decoding aggressivity. If still Lag &gt; 0.4 then Autoseq 2/6 should be used as responding to incoming call will be partially damaged at transmission in AutoSeq 3/7. If constantly Lag  &gt; 2 then your CPU is unsuitable to operate in FT8 with current decoder settings. Sure You can monitor as SWL.&lt;/p&gt;&lt;p&gt;/xx: number of decoded messages in last interval.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Средн.: накопленный средний DT декодированных сигналов на текущем диапазоне.&lt;/p&gt;&lt;p&gt; Lag: это задержка декодирования, вычисленная относительно начала следующего интервала, отрицательные значения означают что имеется запас доступного времени для увеличения глубины декодирования, положительные значения означают что декодирование заходит в интервал передачи либо следующий приемный интервал и  ресурсов процессора недостаточно для выбранной глубины декодирования для обеспечения стабильной передачи сообщений во время QSO.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Задержка зависит от производительности процессора, характера шума,  загруженности диапазона и работы других программ использующих ресурсы процессора, может быть снижена уменьшением полосы частот на водопаде программы. Если задержка постоянно отрицательная то процессор отлично справляется с декдированием интервала и можно увеличить глубину декодирования для получения большего количества декодированных сообщений.&lt;/p&gt;&lt;p&gt;FT8: если задержка находится в диапазоне 0..0.4 секунды то все еще можно использовать режим АвтоВыбор3/7 (функционал автовыбора при необходимости сменит TX сообщение достаточно рано чтобы передать его полностью). Если задержка более 0.4 секунды то необходимо уменьшить глубину декодирования. Если задержка все еще более 0.4 секунды то придется использовать АвтоВыбор2/6, так как в режиме 3/7 ответ на входящий вызов будет частично потерян при передаче. Если задержка постоянно больше двух секунд то процессор непригоден для работы в эфире в FT8, при этом все еще можно провести QSO используя функционал частотного фильтра в JTDX либо использовать программу для мониторинга диапазона&lt;/p&gt;&lt;p&gt; /xx: количество декодированных сообщений в последнем интервале.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Середн.: акумульований середний DT декодованих сигналів на поточному діапазоні.&lt;/p&gt;&lt;p&gt; Lag: це затримка декодування, обрахована відносно початку наступного інтервала, від"ємні значення означають, є запас доступного часу для збільшення глибини декодування, позитивні значення значають, що декодування  займає час наступного інтервалу  або  ресурсу процесора недостатньо для обраної глибини декодування та забезпечення стабильної передачі овідомлень під час  QSO.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Затримка залежить від продуктивності процесора, характера шума,  завантаженості  діапазона та роботи інших программ, які використовують ресурс процесора; вона може бути зменшена обрізанням смуги  аудіочастот на водоспаді программи. Якщо затримка постійно від"ємна, то процессор відмінно справляеться с декодуванням і нтервала и можна збільшити глибину декодування для отримання більшої кількості декодованих повідомлень.&lt;/p&gt;&lt;p&gt;FT8:Zкщо затримка в інтервалі  0..0.4 секунди, то ще можно використовувати режим АвтоВибір3/7 (функціонал автовибору при необхідності змінить TX повідомлення достатньо рано, щоби транслювати його повністю). Якщо затримка > 0.4 сек., необхідно зменшити глибину декодування. Если задержка все еще более 0.4 секунды то придется использовать АвтоВыбор2/6, так как в режиме 3/7 ответ на входящий вызов будет частично потерян при передаче. Если задержка постоянно больше двух секунд то процессор непригоден для работы в эфире в FT8, при этом все еще можно провести QSO используя функционал частотного фильтра в JTDX либо использовать программу для мониторинга диапазона&lt;/p&gt;&lt;p&gt; /xx: количество декодированных сообщений в последнем интервале.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="181"/>
