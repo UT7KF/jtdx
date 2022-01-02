@@ -2987,7 +2987,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../mainwindow.ui" line="283"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lost audio blocks. FT8 15sec interval has 52 blocks of audio data, where decoder being triggered if audio data reached 51 blocks in &apos;SWL/late strat of decoder&apos; modes or 50 blocks otherwise. Under Windows OS there were multiple reports audio data being lost, for Windows OS there is workaround implemented to start FT8 decoder if there at least 46 out of 52 audio blocks received. Lost audio blocks notification lets user know there is something wrong in the setup.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head /&gt; &lt;body&gt; &lt;p&gt; Втрачені  аудіоблоки. В  FT8 за 15-сек. інтервал має бути 52 блока аудіоданих. Декодер стартує, якщо кілкість блоків аудіоданих досягло  51 в режимах «SWL / пізний рівень декодера» або 50 блоків в іншому випадку.&lt;/p&gt;&lt;p&gt;При використанні ОС Windows були чисельні  повідомлення про втрату акдіоданих, тому для ОС Windows в JTDX реалізовано запуск декодера FT8, якщо до завершення інтервала отримано не менше 46 аудіоблоків.&lt;/p&gt;&lt;p&gt;Повідомлення про втрату  аудіоблоків говорить оператору про компресію Rx сигнала по осі часу, приводящей к нарушению синхронизации декодера с сигналом, дополнительным ошибкам в полученном сигнале на входе декодера и ошибке оценки DT сигнала. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt; &lt;head /&gt; &lt;body&gt; &lt;p&gt; Втрачені  аудіоблоки. В  FT8 за 15 сек. інтервал має бути 52 блока аудіоданих. Декодер стартує, якщо кілкість блоків аудіоданих досягло  51 в режимах «SWL / пізний рівень декодера» або 50 блоків в іншому випадку.&lt;/p&gt;&lt;p&gt;При використанні ОС Windows були чисельні  повідомлення про втрату акдіоданих, тому для ОС Windows в JTDX реалізовано запуск декодера FT8, якщо до завершення інтервала отримано не менше 46 аудіоблоків.&lt;/p&gt;&lt;p&gt;Повідомлення про втрату  аудіоблоків говорить оператору про компресію Rx сигналу по осі часу, що приводить до  втрати  синхронізації декодера с сигналом, додатковим помилкам у сигналі на вході декодера та помилці в оцінці DT сигнала. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="289"/>
@@ -2999,12 +2999,12 @@ Error: %2 - %3</source>
         <location filename="../mainwindow.cpp" line="6401"/>
         <location filename="../mainwindow.cpp" line="6412"/>
         <source>Band Activity</source>
-        <translation>Окно диапазона</translation>
+        <translation>Вікно діапазону</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="398"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If orange or red there has been a rig control failure, click to reset and read the dial frequency.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Если кружок отображается оранжевым или красным цветом - не работает CAT управление. Попробуйте синхронизировать управление трансивером нажав кнопкой мыши на кружке, проверьте корректность подключения трансивера к компьютеру,установки в трансивере, выполните заново настройку CAT в JTDX.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Якщо світиться помаранчевим або червоним - не працює CAT управління. Сінхронізуйте управління трансівером натиснувши кнопкою миші на кружок, перевірте коректність підключення TRX  до компа, налаштування в TRX, поновіть налаштування CAT в JTDX.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="418"/>
@@ -3014,7 +3014,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../mainwindow.ui" line="642"/>
         <source>USB dial frequency</source>
-        <translation>Отображение частоты трансивера в режиме USB</translation>
+        <translation>Відображення частоти трансівера в режимі USB</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="654"/>
@@ -3029,7 +3029,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../mainwindow.ui" line="693"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use this control to show or hide spot edit line&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Используйте этот элемент управления , чтобы скрыть/показать строку редактирования спота.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Застосовуйте цей елемент управління, щоб приховати/показати строчку редагування спота.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="699"/>
@@ -3039,23 +3039,23 @@ Error: %2 - %3</source>
     <message>
         <location filename="../mainwindow.ui" line="718"/>
         <source>Select operating band or frequency in MHz</source>
-        <translation>Выбор рабочего диапазона или частоты в МГц</translation>
+        <translation>Вибір робочого діапазона або частоти в МГц</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="766"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;DXSummit spot information field preview.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Предварительный просмотр информационного поля спота для DXSummit.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Попередній перегляд інформації поля спота для DXSummit.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="769"/>
         <source>info:</source>
-        <translation>Инфо:</translation>
+        <translation>Інфо:</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="781"/>
         <location filename="../mainwindow.ui" line="791"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;DXSummit spot line edit: mode in the information field being spotted automatically, user can add own text message in the information field. Available macros: #D is for distance, #G is for &quot;Grid1&lt;&gt;Grid2&quot;, #R is for report value. Information field preview is available.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;редактирование спота для DXSummit: вид связи подставляется автоматически,  вы можете добавить текст сообщения в информационное поле , при этом возможно использование макросов : #D для расстояния, #G для &quot;Grid1&lt;&gt;Grid2&quot; , #R для значения рапорта.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Редагування спота для DXSummit: мода вписується автоматично, можливе додавання тексту у інформаційне поле та,або макросів: #D для відстані, #G для &quot;Grid1&lt;&gt;Grid2&quot; , #R для  рапорту.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="784"/>
@@ -3066,12 +3066,12 @@ Error: %2 - %3</source>
         <location filename="../mainwindow.ui" line="798"/>
         <location filename="../mainwindow.ui" line="808"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Type of the propagation.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Тип прохождения.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Тип проходження.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="801"/>
         <source>prop</source>
-        <translation>прох</translation>
+        <translation>прохід</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="959"/>
@@ -3081,32 +3081,32 @@ Error: %2 - %3</source>
     <message>
         <location filename="../mainwindow.ui" line="981"/>
         <source>Locator of station to be worked</source>
-        <translation>QTH локатор корреспондента</translation>
+        <translation>QTH локатор кореспондента</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1000"/>
         <source>Callsign of station to be worked</source>
-        <translation>Позывной корреспондента</translation>
+        <translation>CALL кореспондента</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1019"/>
         <source>Search for callsign in database</source>
-        <translation>Поиск позывного в файле CALL3.TXT</translation>
+        <translation>Пошук СALL у файлі CALL3.TXT</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1022"/>
         <source>&amp;Lookup</source>
-        <translation>Поиск</translation>
+        <translation>Пошук</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1035"/>
         <source>Add callsign and locator to database</source>
-        <translation>Добавить позывной и QTH квадрат в файл CALL3.TXT</translation>
+        <translation>Додати CALL та QTH квадрат у файл CALL3.TXT</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1038"/>
         <source>Add</source>
-        <translation>Добавить</translation>
+        <translation>Додати</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1073"/>
