@@ -3060,7 +3060,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../mainwindow.ui" line="784"/>
         <source>edit</source>
-        <translation>редакт</translation>
+        <translation>редагування</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="798"/>
@@ -3111,7 +3111,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../mainwindow.ui" line="1073"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Click by left mouse&apos;s button to spot DX call to dxsummit.fi (spotting shall be enabled in Reporting tab of the settings). Click by right mouse&apos;s button to add callsign to the &apos;Hide messages from callsigns&apos; filter.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Для отправки спота на сайт dxsummit.fi нажмите левой  клавишей  мыши на кнопке , отправка спота должна быть  разрешена  в меню   Настройки--&gt;Лог. Для занесения позывного в список фильтра &apos;скрыть сообщения от позывных&apos; нажмите правой клавишей мыши на кнопку.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Для відправки спота на сайт dxsummit.fi натисніть ліву клавішу миші, відправка спота повинна бути дозволена  в меню   Налаштування--&gt;Лог. Для занесення CALL у список фильтра &apos;риховати повідомлення від CALL<&apos; наnтисніть праву клавішу миші.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1076"/>
@@ -3119,7 +3119,7 @@ Error: %2 - %3</source>
         <location filename="../mainwindow.cpp" line="5608"/>
         <location filename="../mainwindow.cpp" line="6030"/>
         <source>DX Call</source>
-        <translation>Позывной DX</translation>
+        <translation>CALL DX</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1323"/>
@@ -3129,17 +3129,17 @@ Error: %2 - %3</source>
     <message>
         <location filename="../mainwindow.ui" line="1357"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Toggle TX minute&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Выбор интервала  передачи сообщения&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Выбір інтервала  передавання повідомлень&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1363"/>
         <source>TX minute</source>
-        <translation>TX минута</translation>
+        <translation>TX хвилина</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1690"/>
         <source>Audio Rx frequency</source>
-        <translation>Звуковая частота приема</translation>
+        <translation>Звукова частота прийому</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1590"/>
@@ -3156,7 +3156,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../mainwindow.ui" line="1757"/>
         <source>Toggle Tx mode</source>
-        <translation>Переключить режим передачи JT65/JT9</translation>
+        <translation>Перемикнути режим передачі JT65/JT9</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1760"/>
@@ -3166,12 +3166,12 @@ Error: %2 - %3</source>
     <message>
         <location filename="../mainwindow.ui" line="1403"/>
         <source>Hound</source>
-        <translation>Гончая</translation>
+        <translation>Режим Hound</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1431"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Signal report (dB)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Рапорт для корреспондента, оценка соотношения сигнал/шум (дБ)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Рапорт для кореспондента, оцінка співвідношення сигнал/шум (дБ)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1434"/>
@@ -3181,7 +3181,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../mainwindow.ui" line="1584"/>
         <source>Audio Tx frequency</source>
-        <translation>Звуковая частота передачи</translation>
+        <translation>Звукова частота передачі</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1593"/>
@@ -3209,17 +3209,17 @@ Error: %2 - %3</source>
     <message>
         <location filename="../mainwindow.ui" line="1721"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use different Rx/Tx AF frequencies or set Tx frequency equal to Rx AF frequency.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Разнесение частот приема и передачи, используется в большинстве случаев при работе в FT8/FT4 чтобы не создавать помех вызываемому  корреспонденту. В исключительных случаях требуется передача сообщений на частоте корреспондента.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Рознесення частот прийому-передачі, використовується переважно при роботі в FT8/FT4, щоб не генерувати QRM корепонденту. У виключних випадках передача повідомлень може бути на частоті кореспондента.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1727"/>
         <source>Split Tx/Rx</source>
-        <translation>Tx/Rx Сплит</translation>
+        <translation>Tx/Rx Спліт</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1660"/>
         <source>Set Rx frequency to Tx Frequency</source>
-        <translation>установить частоту приема равной частоте передачи</translation>
+        <translation>Встановити частоту прийому = передачи</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1459"/>
@@ -3230,7 +3230,7 @@ Error: %2 - %3</source>
         <location filename="../mainwindow.ui" line="1473"/>
         <location filename="../mainwindow.ui" line="4729"/>
         <source>AutoSeq</source>
-        <translation>АвтоВыбор</translation>
+        <translation>АвтоВибір</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1489"/>
