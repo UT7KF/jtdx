@@ -3245,17 +3245,17 @@ Error: %2 - %3</source>
     <message>
         <location filename="../mainwindow.ui" line="1632"/>
         <source>Set Tx frequency to Rx Frequency</source>
-        <translation>установить частоту передачи равной частоте приема</translation>
+        <translation>встановити частоту TX=RX</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1519"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use this control to show or hide wanted callsign/prefix edit lines&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Этот элемент управления показывает или скрывает строки редактирования искомых позывного/префикса/QTH квадрата/страны. Функционал работает при заполнении строк независимо от того скрыты или показываются эти строки.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Цей елемент управління відображує або приховує строчку редагування CALL/префікса/QTH квадрата/країни. Функціонал працює при заповненні строк незалежно від відимості цих строчок.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1522"/>
         <source>Wanted</source>
-        <translation>Поиск</translation>
+        <translation>Поошук/translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1541"/>
@@ -3270,12 +3270,12 @@ Error: %2 - %3</source>
     <message>
         <location filename="../mainwindow.ui" line="1853"/>
         <source> Pwr</source>
-        <translation>Мощн</translation>
+        <translation>Потужність</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1875"/>
         <source>Adjust Tx audio level</source>
-        <translation>Регулировка уровня звука на передачу</translation>
+        <translation>Регулювання рівня звука на передачу</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1944"/>
@@ -3286,7 +3286,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../mainwindow.ui" line="1947"/>
         <source>callsign:</source>
-        <translation>Позывной:</translation>
+        <translation>CALL:</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1973"/>
@@ -3308,7 +3308,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../mainwindow.ui" line="1996"/>
         <source>prefix:</source>
-        <translation>Префикс:</translation>
+        <translation>Префiкс:</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="2026"/>
