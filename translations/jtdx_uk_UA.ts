@@ -5148,7 +5148,7 @@ list. The list can be maintained in Settings (F2).</source>
         <location filename="../mainwindow.cpp" line="3762"/>
         <location filename="../mainwindow.cpp" line="3771"/>
         <source>check time</source>
-        <translation>время</translation>
+        <translation>Контроль часу</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4227"/>
@@ -5159,13 +5159,13 @@ list. The list can be maintained in Settings (F2).</source>
         <location filename="../mainwindow.cpp" line="4232"/>
         <location filename="../mainwindow.cpp" line="4235"/>
         <source>FT8 F/H Tx Guard</source>
-        <translation>Защита от вызова в участке частот DX экспедиции</translation>
+        <translation>Захист частоти DX експедиції</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4355"/>
         <location filename="../mainwindow.cpp" line="4821"/>
         <source>LastTx: </source>
-        <translation>ПослдTx: </translation>
+        <translation>Останнй Tx: </translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4606"/>
@@ -5180,7 +5180,7 @@ list. The list can be maintained in Settings (F2).</source>
     <message>
         <location filename="../mainwindow.cpp" line="5710"/>
         <source>Please enter a valid grid locator</source>
-        <translation>Пожалуйста, введите правильный QTH квадрат</translation>
+        <translation>Будь ласка, введіть вірний QTH квадрат</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="5722"/>
@@ -5419,7 +5419,7 @@ UDP сервер %2:%3</translation>
     <message>
         <location filename="../Configuration.cpp" line="5395"/>
         <source>Go back</source>
-        <translation>Повернутисяся</translation>
+        <translation>Повернутися</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5396"/>
@@ -5434,7 +5434,7 @@ UDP сервер %2:%3</translation>
     <message>
         <location filename="../Configuration.cpp" line="5398"/>
         <source>Go forward</source>
-        <translation>Продолжить</translation>
+        <translation>Продовжити</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5399"/>
@@ -5444,7 +5444,7 @@ UDP сервер %2:%3</translation>
     <message>
         <location filename="../Configuration.cpp" line="5400"/>
         <source>Parent Directory</source>
-        <translation>Родителькая папка</translation>
+        <translation><Корінна папка</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5401"/>
@@ -5464,17 +5464,17 @@ UDP сервер %2:%3</translation>
     <message>
         <location filename="../Configuration.cpp" line="5404"/>
         <source>Create a New Folder</source>
-        <translation>Создать новую папку</translation>
+        <translation>Створити нову папку</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5405"/>
         <source>List View</source>
-        <translation>Список просмотра</translation>
+        <translation>Список перегляду</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5406"/>
         <source>Change to list view mode</source>
-        <translation>Перейти в режим просмотра списка</translation>
+        <translation>Перейти в режим перегляду списка</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5407"/>
@@ -5489,12 +5489,12 @@ UDP сервер %2:%3</translation>
     <message>
         <location filename="../Configuration.cpp" line="5409"/>
         <source>Sidebar</source>
-        <translation>Боковая панель</translation>
+        <translation>Біна панель</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5410"/>
         <source>List of places and bookmarks</source>
-        <translation>Список мест и закладок</translation>
+        <translation>Список місць та закладок</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5388"/>
@@ -5548,7 +5548,7 @@ Please verify the correct directory name was given.</source>
     <message>
         <location filename="../Configuration.cpp" line="5415"/>
         <source>Date Modified</source>
-        <translation>Дата изменения</translation>
+        <translation>Дата зміни</translation>
     </message>
 </context>
 <context>
